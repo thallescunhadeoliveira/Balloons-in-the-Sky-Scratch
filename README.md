@@ -11,6 +11,7 @@ Trata-se de um jogo de arco e flecha em que o objetivo é acertar os balões e e
 Instruções:
 <ul>
   <li>Seu objetivo é alcançar 100 pontos</li>
+  <li>Clique na flecha para atirar</li>
   <li>Você gaha pontos acertando os balões azul ou amarelo (1 ponto) ou o verde (10 pontos)</li>
   <li>Você ganha 10 flechas se acertar o balão roxo</li>
   <li>Você perde pontos se o balão azul ou amarelo alcançar o céu (-1 ponto) ou se acertar o pássaro (-10 pontos)</li>
