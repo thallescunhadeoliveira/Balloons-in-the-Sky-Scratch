@@ -25,6 +25,7 @@ Instruções:
   <img src="https://user-images.githubusercontent.com/89935401/151678245-20ec6122-649d-42a8-8b49-edb5e2518a15.JPG" width=75% >
   <img src="https://user-images.githubusercontent.com/89935401/151678246-2d488e70-fca7-4d90-b04d-b483e8d22fa2.JPG" width=75% >
   <img src="https://user-images.githubusercontent.com/89935401/151678247-43244342-49fb-40eb-b3a8-0762c4700708.JPG" width=75% >
+  <img src="https://user-images.githubusercontent.com/89935401/151678451-244da13d-13b5-41db-affe-ed882bd41ef0.JPG" width=75% >
 </div>
 
 <!-- 
@@ -33,4 +34,5 @@ Instruções:
 ![Capturar2](https://user-images.githubusercontent.com/89935401/151678245-20ec6122-649d-42a8-8b49-edb5e2518a15.JPG)
 ![Capturar3](https://user-images.githubusercontent.com/89935401/151678246-2d488e70-fca7-4d90-b04d-b483e8d22fa2.JPG)
 ![Capturar4](https://user-images.githubusercontent.com/89935401/151678247-43244342-49fb-40eb-b3a8-0762c4700708.JPG)
-![Código](https://user-images.githubusercontent.com/89935401/151678248-c67d88ec-4f6d-480a-9303-d9576c3ea083.JPG) -->
+![Código](https://user-images.githubusercontent.com/89935401/151678248-c67d88ec-4f6d-480a-9303-d9576c3ea083.JPG)
+![ganhou](https://user-images.githubusercontent.com/89935401/151678451-244da13d-13b5-41db-affe-ed882bd41ef0.JPG)-->
