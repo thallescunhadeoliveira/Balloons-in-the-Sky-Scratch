@@ -20,7 +20,7 @@ Instruções:
 </ul>
 
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/89935401/151678740-0178b2ed-1bef-4ef5-a681-bcf35d59b5f5.JPG" width=85% >
+  <img src="https://user-images.githubusercontent.com/89935401/151678740-0178b2ed-1bef-4ef5-a681-bcf35d59b5f5.JPG" width=95% >
   <img src="https://user-images.githubusercontent.com/89935401/151678246-2d488e70-fca7-4d90-b04d-b483e8d22fa2.JPG" width=75% >
   <img src="https://user-images.githubusercontent.com/89935401/151678243-04473536-0834-453b-ac74-445e5511acf3.JPG" width=75% >
 <!--   <img src="https://user-images.githubusercontent.com/89935401/151678244-ca322f96-0c22-4c0f-a262-03fa80558e63.JPG" width=75% > -->
