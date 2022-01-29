@@ -2,7 +2,7 @@
 
 <b>Scratch</b>
 
-Scratch é um site público criado pelo MIT para aprendizado em programação através de blocos intuitivos que ajudam no processo de programação e pode ser conferido <a href="https://scratch.mit.edu/" >aqui</a>.
+Scratch é um site público criado pelo MIT para aprender a programar através de blocos intuitivos que ajudam no processo de criação de jogos e pode ser conferido <a href="https://scratch.mit.edu/" >aqui</a>.
 
 Esse jogo foi criado como uma atividade para o curso de Introdução à Ciência da Computação de Harvard <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0" >CS50x 2022</a>. Para acessá-lo é só baixar o aquivo e no site do Scratch selecionar Criar > File > Load from your computer > e selecionar o arquivo "Balloons In The Sky.sb3".
 
