@@ -6,7 +6,7 @@ Scratch é um site público para aprendizado em programação através de blocos
 
 Esse jogo foi criado como uma atividade para o curso de Introdução à Ciência da Computação de Harvard <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0" >CS50x 2022</a>. Para acessá-lo é só baixar o aquivo e no site do Scratch selecionar Criar > File > Load from your computer > e selecionar o arquivo "Balloons In The Sky.sb3".
 
-Trata-se de um jogo de arco e flecha em que o objetivo é acertar os balões e evitar acertar o pássaro.
+Trata-se de um jogo de arco e flecha em que o objetivo é acertar os balões e evitar atingir o pássaro.
 
 Instruções:
 <ul>
@@ -19,7 +19,12 @@ Instruções:
 </ul>
 
 <div align=center>
-  <img src="" width=75% >
+  <img src="https://user-images.githubusercontent.com/89935401/151678248-c67d88ec-4f6d-480a-9303-d9576c3ea083.JPG" width=75% >
+  <img src="https://user-images.githubusercontent.com/89935401/151678243-04473536-0834-453b-ac74-445e5511acf3.JPG" width=75% >
+  <img src="https://user-images.githubusercontent.com/89935401/151678244-ca322f96-0c22-4c0f-a262-03fa80558e63.JPG" width=75% >
+  <img src="https://user-images.githubusercontent.com/89935401/151678245-20ec6122-649d-42a8-8b49-edb5e2518a15.JPG" width=75% >
+  <img src="https://user-images.githubusercontent.com/89935401/151678246-2d488e70-fca7-4d90-b04d-b483e8d22fa2.JPG" width=75% >
+  <img src="https://user-images.githubusercontent.com/89935401/151678247-43244342-49fb-40eb-b3a8-0762c4700708.JPG" width=75% >
 </div>
 
 ![Capturar](https://user-images.githubusercontent.com/89935401/151678243-04473536-0834-453b-ac74-445e5511acf3.JPG)
